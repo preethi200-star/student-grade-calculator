@@ -29,10 +29,13 @@ Student-Grade-Calculator/       # Root folder (Repository name)
 ### 1️⃣ Compile the Program
 ```bash
 javac StudentGradeCalculator.java
-**###**2️⃣ **Run the Program**
+
+
+### 2️⃣ Run the Program
+
 java StudentGradeCalculator
 
-🏷️ **Grading Criteria**
+🏷️ Grading Criteria
 
 A : 90 and above
 B : 75 – 89

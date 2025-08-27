@@ -26,12 +26,12 @@ Student-Grade-Calculator/       # Root folder (Repository name)
 
 ## 🖥️ How to Run
 
-**1️⃣ Compile the Program**
+1️⃣ Compile the Program
 
 javac StudentGradeCalculator.java
 
 ---
-** 2️⃣ Run the Program **
+2️⃣ Run the Program 
 
 java StudentGradeCalculator
 
@@ -39,8 +39,9 @@ java StudentGradeCalculator
 
 **🏷️ Grading Criteria**
 
-A : 90 and above
-B : 75 – 89
-C : 60 – 74
-D : 40 – 59
+
+A : 90 and above<br>
+B : 75 – 89<br>
+C : 60 – 74<br>
+D : 40 – 59<br>
 F : Below 40

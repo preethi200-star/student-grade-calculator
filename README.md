@@ -30,8 +30,8 @@ Student-Grade-Calculator/       # Root folder (Repository name)
 ```bash
 javac StudentGradeCalculator.java
 
-
 ### 2️⃣ Run the Program
+```bash
 
 java StudentGradeCalculator
 
